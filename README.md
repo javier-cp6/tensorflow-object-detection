@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Fine-Tuning a TensorFlow model for Kangaroo Detection
 
 **Machine Learning Zoomcamp - Capstone Project 2**
@@ -101,6 +100,3 @@ The model was tested on new images to evaluate its performance to detect kangaro
 ## Sources:
 
 - Object detection with Model Garden, TensorFlow. https://www.tensorflow.org/tfmodels/vision/object_detection
-=======
-# tensorflow-object-detection
->>>>>>> 901b15ecbf6432bc9279d2e19c07e04ab540921d
